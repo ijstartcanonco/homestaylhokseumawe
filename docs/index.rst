@@ -134,6 +134,23 @@ Penutup & Catatan SEO
 
    **Ringkasan Singkat:**  
    - **The Majestic Homestay** adalah pilihan utama jika Anda mencari mix terbaik dari kenyamanan, lokasi, dan nilai.  
-   - Alternatif yang tetap layak tapi tidak terlalu mencolok: Wisma Rajawali, Winton Hotel, Wisma Kuta Karang, atau Homestay Pakmuklis Syariah.
+   - Alternatif yang tetap layak tapi tidak terlalu mencolok: Wisma Rajawali, Winton Hotel, Wisma Kuta Karang, 
+
+Lokasi The Majestic Homestay
+============================
+
+.. raw:: html
+
+   <div style="margin:1rem 0; border-radius:12px; overflow:hidden;">
+     <iframe 
+       src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.493717237602!2d97.14092817498249!3d5.1847828947927175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3047830031391141%3A0xb649b19008867c98!2sPenginapan%20The%20Majestic%20Homestay%20Lhokseumawe!5e0!3m2!1sid!2sid!4v1757409039395!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" 
+       width="100%" 
+       height="400" 
+       style="border:0;" 
+       allowfullscreen="" 
+       loading="lazy" 
+       referrerpolicy="no-referrer-when-downgrade">
+     </iframe>
+   </div>
 
   

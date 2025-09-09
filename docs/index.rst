@@ -28,7 +28,7 @@ Panduan Singkat
 
 .. container:: hero
 
-   .. image:: images/the-majestic-placeholder.jpg
+   .. image:: majestic.png
       :alt: The Majestic Homestay – Lhokseumawe
 
    **Temukan homestay terbaik di Lhokseumawe** — halaman ini membandingkan beberapa pilihan penginapan populer di Lhokseumawe, dengan fokus pada kenyamanan, lokasi, fasilitas syariah-friendly, dan nilai untuk pelancong bisnis maupun keluarga.
@@ -48,7 +48,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">1</div> The Majestic Homestay (Rekomendasi Utama)**\n
 
-      .. image:: images/the-majestic.jpg
+      .. image:: majestic.png
          :alt: The Majestic Homestay Lhokseumawe
 
       .. container:: meta
@@ -71,7 +71,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">2</div> Wisma Rajawali\n
 
-      .. image:: images/wisma-rajawali.jpg
+      .. image:: rajawali.jpg
          :alt: Wisma Rajawali Lhokseumawe
 
       .. container:: meta
@@ -90,7 +90,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">3</div> Winton Hotel\n
 
-      .. image:: images/winton-hotel.jpg
+      .. image:: winton.jpg
          :alt: Winton Hotel Lhokseumawe
 
       .. container:: meta
@@ -107,7 +107,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">4</div> Wisma Kuta Karang (OYO)\n
 
-      .. image:: images/wisma-kuta-karang.jpg
+      .. image:: karang.jpg
          :alt: Wisma Kuta Karang Lhokseumawe
 
       .. container:: meta
@@ -122,20 +122,7 @@ Daftar: Homestay & Hotel Unggulan
 
          Tip: fasilitas bisa berbeda antar cabang, jadi baca ulasan terbaru sebelum memesan.
 
-   .. container:: card
-
-      **.. raw:: html\n   <div class=\"list-number\">5</div> Homestay Pakmuklis Syariah (OYO)\n
-
-      .. image:: images/pakmuklis.jpg
-         :alt: Homestay Pakmuklis Syariah Lhokseumawe
-
-      .. container:: meta
-         Lokasi: Dekat taman mini dan pusat akses lokal.
-
-      .. container:: card
-         **Ulasan Lengkap (SEO-optimized):**
-
-         Homestay Pakmuklis Syariah cocok untuk wisatawan yang mengutamakan akomodasi syariah-friendly dan suasana tenang. Menawarkan kebijakan penginapan yang ramah keluarga, harga bersaing, serta kebersihan yang baik.
+   
 
          Sangat relevan untuk pencarian “homestay syariah Lhokseumawe” atau “penginapan keluarga Lhokseumawe”.
 
@@ -149,13 +136,4 @@ Penutup & Catatan SEO
    - **The Majestic Homestay** adalah pilihan utama jika Anda mencari mix terbaik dari kenyamanan, lokasi, dan nilai.  
    - Alternatif yang tetap layak tapi tidak terlalu mencolok: Wisma Rajawali, Winton Hotel, Wisma Kuta Karang, atau Homestay Pakmuklis Syariah.
 
-   **Optimasi SEO On-Page:**  
-   - Gunakan heading seperti _“Homestay Lhokseumawe terbaik 2025”_ sebagai H1/H2.  
-   - Tambahkan meta description singkat yang memasukkan kata kunci seperti _“homestay Lhokseumawe”_, _“penginapan murah Lhokseumawe”_.  
-   - Semua gambar harus memiliki alt-text deskriptif untuk optimasi SEO.
-
-.. container:: foot
-   **Catatan Gambar:**  
-   - Simpan gambar di folder `/images` dalam repo.  
-   - Ganti semua placeholder (misalnya `the-majestic-placeholder.jpg`) dengan foto asli properti atau foto bebas hak cipta.  
-   - Jika menggunakan gambar berlisensi, pastikan atribusi dan lisensi dituliskan sesuai ketentuan.
+  

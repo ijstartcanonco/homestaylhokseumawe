@@ -57,7 +57,7 @@ Daftar: Homestay & Hotel Unggulan
       .. container:: card
          **Ulasan Lengkap (SEO-optimized):**
 
-         The Majestic Homestay adalah pilihan utama bagi pelancong yang mencari kenyamanan modern dengan pelayanan personal di pusat Lhokseumawe. Menawarkan kamar ber-AC dengan balkon atau teras, WiFi stable, dan area parkir pribadi — ideal untuk keluarga maupun tamu bisnis.
+         `The Majestic Homestay <https://themajestichomestay.com>`_ adalah pilihan utama bagi pelancong yang mencari kenyamanan modern dengan pelayanan personal di pusat Lhokseumawe. Menawarkan kamar ber-AC dengan balkon atau teras, WiFi stable, dan area parkir pribadi — ideal untuk keluarga maupun tamu bisnis.
 
          Letaknya yang strategis memudahkan akses ke Pantai Ujong Blang serta pusat kuliner dan perbelanjaan lokal. Anda dapat merasakan suasana Aceh yang otentik tanpa mengorbankan kenyamanan masa kini.
 
@@ -88,7 +88,7 @@ Daftar: Homestay & Hotel Unggulan
 
    .. container:: card
 
-      **3. Winton Hotel\**
+      **3. Winton Hotel**
 
       .. image:: winton.jpg
          :alt: Winton Hotel Lhokseumawe

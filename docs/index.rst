@@ -1,187 +1,89 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===============================
+Homestay Terbaik di Lhokseumawe
+===============================
 
+Temukan pilihan penginapan terbaik untuk kenyamanan perjalanan Anda di Kota Lhokseumawe.  
+Berikut adalah daftar 3 rekomendasi utama:
 
-3 Penginapan Terbaik di Kota Lhokseumawe
-========================================
+.. raw:: html
 
-Selamat datang di landing page yang merangkum tiga penginapan pilihan di Lhokseumawe—cocok untuk perjalanan bisnis, keluarga, maupun backpacking santai.
+   <style>
+   .homestay-card {
+       background: #f9f9f9;
+       border-radius: 12px;
+       padding: 20px;
+       margin: 20px 0;
+       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+       transition: transform 0.2s ease-in-out;
+   }
+   .homestay-card:hover {
+       transform: scale(1.02);
+   }
+   .homestay-title {
+       font-size: 20px;
+       font-weight: bold;
+       color: #2c3e50;
+       margin-bottom: 10px;
+   }
+   .homestay-desc {
+       font-size: 15px;
+       color: #555;
+       line-height: 1.6;
+   }
+   .highlight {
+       background: #fffae6;
+       border-left: 5px solid #f1c40f;
+       padding: 10px 15px;
+       margin-top: 10px;
+       border-radius: 6px;
+       font-style: italic;
+   }
+   a.homestay-link {
+       color: #2980b9;
+       text-decoration: none;
+       font-weight: bold;
+   }
+   a.homestay-link:hover {
+       text-decoration: underline;
+   }
+   </style>
 
-.. contents::
-   :local:
-   :depth: 2
+.. raw:: html
 
+   <div class="homestay-card">
+     <div class="homestay-title">1. The Majestic Homestay</div>
+     <div class="homestay-desc">
+       Rasakan kenyamanan seperti di rumah sendiri dengan fasilitas modern,  
+       suasana hangat, dan privasi maksimal. Cocok untuk keluarga, traveler,  
+       maupun perjalanan bisnis.
+       <br><br>
+       Website: <a href="https://themajestichomestay.com" class="homestay-link">The Majestic Homestay</a>
+     </div>
+   </div>
 
-Ringkasan Singkat
------------------
+.. raw:: html
 
-.. list-table:: Perbandingan Cepat
-   :header-rows: 1
-   :widths: 26 20 22 32
+   <div class="homestay-card">
+     <div class="homestay-title">2. Hotel Grand Sydney</div>
+     <div class="homestay-desc">
+       Pilihan tepat bagi Anda yang mencari kenyamanan dengan lokasi strategis.  
+       Dilengkapi fasilitas standar hotel berbintang dan pelayanan ramah.
+     </div>
+   </div>
 
-   * - Properti
-     - Kelas & Gaya
-     - Lokasi (umum)
-     - Ciri Khas
-   * - The Majestic Homestay
-     - Homestay modern & hangat
-     - Akses mudah ke pusat kota
-     - Suasana rumah, privat, cocok keluarga
-   * - Hotel Grand Sydney
-     - Hotel bisnis & keluarga
-     - Koridor utama kota
-     - Fasilitas hotel lengkap & layanan resepsionis
-   * - Hotel Rajawali
-     - Hotel klasik & terjangkau
-     - Area strategis perkotaan
-     - Nilai ekonomis, simpel & nyaman
+.. raw:: html
 
+   <div class="homestay-card">
+     <div class="homestay-title">3. Hotel Rajawali</div>
+     <div class="homestay-desc">
+       Alternatif penginapan yang nyaman dengan harga terjangkau.  
+       Cocok untuk perjalanan singkat maupun liburan keluarga sederhana.
+     </div>
+   </div>
 
-The Majestic Homestay
----------------------
+.. raw:: html
 
-Rasakan kenyamanan seperti di rumah sendiri di `The Majestic Homestay <https://themajestichomestay.com>`_ Lhokseumawe
-
-Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
-
-.. image:: majestic.png
-   :alt: The Majestic Homestay Lhokseumawe
-   :align: center
-   :width: 720
-
-
-**Homestay ini cocok untuk berbagai kebutuhan:**
-
-- Keluarga yang menginginkan ruang privat dan suasana seperti rumah.
-- Traveler yang mencari tempat istirahat tenang dengan akses mudah ke pusat kota.
-- Perjalanan bisnis yang membutuhkan akomodasi nyaman dengan fasilitas pendukung.
-- Dengan kombinasi kenyamanan, fasilitas modern, dan lokasi strategis, The Majestic Homestay menjadi pilihan terbaik bagi siapa saja yang mengutamakan kualitas dalam perjalanan mereka.
-
-**Highlight**
-
-- Nuansa homy dengan sentuhan modern.
-- Privasi maksimal—cocok untuk keluarga kecil atau rombongan teman.
-- Area komunal untuk bersantai/kerja ringan.
-
-**Fasilitas Utama**
-
-- Kamar ber-AC, Wi-Fi, kamar mandi dalam (tipe kamar tertentu).
-- Dapur/area pantry bersama (opsional), parkir, area merokok/non-smoking.
-- Akses mandiri/check-in fleksibel (sesuai ketersediaan).
-
-**Kenapa Memilih Ini**
-
-- Ingin suasana seperti di rumah sendiri.
-- Fleksibel untuk masa inap singkat/panjang.
-- Value for money untuk grup kecil.
-
-**Tips Menginap**
-
-- Konfirmasi ketersediaan dapur/pantry dan tipe kasur.
-- Tanyakan opsi early/late check-in bila dibutuhkan.
-
-
-
-Hotel Grand Sydney
-------------------
-
-.. image:: sydney.jpeg
-   :alt: Hotel Grand Sydney Lhokseumawe
-   :align: center
-   :width: 720
-
-**Highlight**
-
-- Hotel berfasilitas lengkap untuk bisnis maupun keluarga.
-- Akses mudah ke titik kuliner dan transportasi.
-- Resepsionis dan layanan kamar (jam operasional hotel).
-
-**Fasilitas Utama**
-
-- Kamar ber-AC, Wi-Fi, TV, air panas (tipe kamar tertentu).
-- Restoran/sarapan (sesuai paket), ruang pertemuan (jika tersedia), parkir.
-- Layanan kebersihan berkala.
-
-**Kenapa Memilih Ini**
-
-- Menginginkan kenyamanan layanan hotel.
-- Perjalanan dinas atau liburan keluarga.
-- Membutuhkan opsi ruang meeting (cek ketersediaan).
-
-**Tips Menginap**
-
-- Pastikan paket termasuk sarapan bila diperlukan.
-- Tanyakan kebijakan deposit & pembatalan.
-
-
-Hotel Rajawali
---------------
-
-.. image:: rajawali.jpg
-   :alt: Hotel Rajawali Lhokseumawe
-   :align: center
-   :width: 720
-
-**Highlight**
-
-- Hotel klasik dengan harga bersahabat.
-- Pilihan tepat untuk short stay & transit.
-- Akses strategis ke pusat kebutuhan harian.
-
-**Fasilitas Utama**
-
-- Kamar ber-AC/kipas (tergantung tipe), Wi-Fi (umum), kamar mandi (dalam/luar—cek tipe).
-- Resepsionis, parkir, layanan kebersihan.
-- Opsi kamar ekonomis.
-
-**Kenapa Memilih Ini**
-
-- Fokus pada efisiensi anggaran.
-- Kebutuhan menginap ringkas dengan akses kota yang mudah.
-- Traveler solo atau pasangan.
-
-
-Panduan Pemesanan
------------------
-
-1. Tentukan prioritas: **lokasi**, **privasi/fasilitas**, atau **anggaran**.
-2. Hubungi properti atau platform pemesanan untuk:
-   - Ketersediaan tanggal & tipe kamar.
-   - Detail fasilitas per tipe kamar.
-   - Kebijakan **check-in/out**, **pembatalan**, dan **deposit**.
-3. Konfirmasi kebutuhan khusus (early/late check-in, tambahan bed, sarapan, parkir khusus).
-4. Simpan bukti reservasi & kontak resepsionis.
-
-
-Rencana Perjalanan Singkat (Opsional)
--------------------------------------
-
-- **Hari 1:** Check-in, jelajah kuliner lokal (mie, kopi sanger), istirahat.
-- **Hari 2:** Kunjungi landmark & pantai sekitar, kembali untuk makan malam.
-- **Hari 3:** Checkout santai, beli oleh-oleh, perjalanan pulang.
-
-
-FAQ
----
-
-
-
-**Apakah bisa early/late check-in?**  
-Fleksibel tergantung okupansi. Silakan koordinasi sebelum kedatangan.
-
-**Apakah tersedia parkir?**  
-Umumnya tersedia. Tanyakan kapasitas & kebijakan keamanan setempat.
-
-**Apakah ada kamar keluarga?**  
-Ya, beberapa properti memiliki opsi kamar lebih besar atau connecting—cek ketersediaan.
-
-
-
-
-Catatan
--------
-
-- Informasi di atas bersifat umum. Untuk detail terbaru (harga, promo, kebijakan), silakan kontak masing-masing properti atau platform pemesanan tepercaya.
-- Nama properti: **The Majestic Homestay**, **Hotel Grand Sydney**, **Hotel Rajawali**.
+   <div class="highlight">
+     The Majestic Homestay adalah rekomendasi utama dengan pengalaman terbaik  
+     bagi wisatawan dan pebisnis di Lhokseumawe.
+   </div>

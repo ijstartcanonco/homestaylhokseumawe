@@ -3,23 +3,185 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ij Start Canon Set Up ‒ ijstartcanon.co
-==================
 
-`Ij start canon set up <https://ijstartcanon.co>`_ - The arrangement in between Canon Production Printing and also Rodden Graphics comes on the back of the identification of a significant need in the region for electronic label printing, driven by an enhancing demand for producing flexibility, on-demand manufacturing, excellent quality and also trusted result.
+3 Penginapan Terbaik di Kota Lhokseumawe
+========================================
 
-Neighborhood sales and also company, Canon Production Printing Australia, will support the installation and also maintenance of the LabelStream across the Australian as well as New Zealand market via their recognized and also prominent service network.
+Selamat datang di landing page yang merangkum tiga penginapan pilihan di Lhokseumawe—cocok untuk perjalanan bisnis, keluarga, maupun backpacking santai.
 
-Craig Nethercott, Managing Supervisor, Canon Manufacturing Printing Oceania, states, "We're certain that we can aid label converters looking to prolong earnings streams using electronic print options. To sustain ij start canon development, the LabelStream 4000 series will certainly be available in both its core solution, providing the excellent introduction right into the world of high efficiency inkjet label printing, along with its hybrid arrangement, allowing a total inline production of high-quality, self-adhesive tags and a totally incorporated, single-pass label conversion line."
+.. contents::
+   :local:
+   :depth: 2
 
-Walter Vogelsberger, VP Digital Packaging Print, Canon Manufacturing Printing, says, "With its strong network presence and well established connections, Rodden Video is a trusted partner for its numerous customers and also will certainly have the ability to boost the value it adds by providing the Canon Production Printing remedies to the Oceania tag market."
 
-" Australia is a crucial market in terms of growth opportunities and the collaboration with Rodden Video is an ideal fit to supply clients with access to Canon's cutting-edge technology sustained by our outstanding service network," he adds.
+Ringkasan Singkat
+-----------------
 
-James Rodden, Director of Rodden Video, remarks, "We are pleased to partner with Canon as well as sustain its distribution for the Oceania market. We are confident that our network will play a vital duty in expanding the presence of the LabelStream 4000 collection and also in presenting its item portfolio to a raising client base in our area."
+.. list-table:: Perbandingan Cepat
+   :header-rows: 1
+   :widths: 26 20 22 32
 
-Concerning the LabelStream 4000 series
+   * - Properti
+     - Kelas & Gaya
+     - Lokasi (umum)
+     - Ciri Khas
+   * - The Majestic Homestay
+     - Homestay modern & hangat
+     - Akses mudah ke pusat kota
+     - Suasana rumah, privat, cocok keluarga
+   * - Hotel Grand Sydney
+     - Hotel bisnis & keluarga
+     - Koridor utama kota
+     - Fasilitas hotel lengkap & layanan resepsionis
+   * - Hotel Rajawali
+     - Hotel klasik & terjangkau
+     - Area strategis perkotaan
+     - Nilai ekonomis, simpel & nyaman
 
-The LabelStream 4000 series is a four- to six-colour UV inkjet press (CMYK, White and Orange) that supplies print rates of as much as 75 m/min and 2 print widths of 330 mm (13") or 410 mm (16"), causing an industry-leading total result of 1,845 m ²/ human resources. It uses marginal set-up times, flexibility to mass customise components and also art work, while allowing the shortest possible time to market.
 
-The Canon LabelStream 4000 collection UV inkjet press has actually been awarded the 'PANTONE ® Capable' certificate, validating its reliability and ability to create a wide variety of PANTONE ® colours consistently. Journalism is likewise the first electronic press to have been Fogra55 licensed by the Fogra Study Institute for Media Technologies by meeting the specs of its ProcessStandard Digital (PSD) Publish Examine based on the new 7-colour criteria range ij start canon.
+The Majestic Homestay
+---------------------
+
+Rasakan kenyamanan seperti di rumah sendiri di `The Majestic Homestay <https://themajestichomestay.com>`_ Lhokseumawe
+
+Setiap sudut dirancang dengan sentuhan modern namun tetap menghadirkan suasana hangat yang membuat Anda betah. Privasi menjadi prioritas, sehingga Anda dapat menikmati waktu bersama keluarga tanpa gangguan, beristirahat tenang setelah lelah bepergian, atau fokus bekerja dengan suasana yang nyaman.
+
+.. image:: majestic.png
+   :alt: The Majestic Homestay Lhokseumawe
+   :align: center
+   :width: 720
+
+
+**Homestay ini cocok untuk berbagai kebutuhan:**
+
+- Keluarga yang menginginkan ruang privat dan suasana seperti rumah.
+- Traveler yang mencari tempat istirahat tenang dengan akses mudah ke pusat kota.
+- Perjalanan bisnis yang membutuhkan akomodasi nyaman dengan fasilitas pendukung.
+- Dengan kombinasi kenyamanan, fasilitas modern, dan lokasi strategis, The Majestic Homestay menjadi pilihan terbaik bagi siapa saja yang mengutamakan kualitas dalam perjalanan mereka.
+
+**Highlight**
+
+- Nuansa homy dengan sentuhan modern.
+- Privasi maksimal—cocok untuk keluarga kecil atau rombongan teman.
+- Area komunal untuk bersantai/kerja ringan.
+
+**Fasilitas Utama**
+
+- Kamar ber-AC, Wi-Fi, kamar mandi dalam (tipe kamar tertentu).
+- Dapur/area pantry bersama (opsional), parkir, area merokok/non-smoking.
+- Akses mandiri/check-in fleksibel (sesuai ketersediaan).
+
+**Kenapa Memilih Ini**
+
+- Ingin suasana seperti di rumah sendiri.
+- Fleksibel untuk masa inap singkat/panjang.
+- Value for money untuk grup kecil.
+
+**Tips Menginap**
+
+- Konfirmasi ketersediaan dapur/pantry dan tipe kasur.
+- Tanyakan opsi early/late check-in bila dibutuhkan.
+
+
+
+Hotel Grand Sydney
+------------------
+
+.. image:: sydney.jpeg
+   :alt: Hotel Grand Sydney Lhokseumawe
+   :align: center
+   :width: 720
+
+**Highlight**
+
+- Hotel berfasilitas lengkap untuk bisnis maupun keluarga.
+- Akses mudah ke titik kuliner dan transportasi.
+- Resepsionis dan layanan kamar (jam operasional hotel).
+
+**Fasilitas Utama**
+
+- Kamar ber-AC, Wi-Fi, TV, air panas (tipe kamar tertentu).
+- Restoran/sarapan (sesuai paket), ruang pertemuan (jika tersedia), parkir.
+- Layanan kebersihan berkala.
+
+**Kenapa Memilih Ini**
+
+- Menginginkan kenyamanan layanan hotel.
+- Perjalanan dinas atau liburan keluarga.
+- Membutuhkan opsi ruang meeting (cek ketersediaan).
+
+**Tips Menginap**
+
+- Pastikan paket termasuk sarapan bila diperlukan.
+- Tanyakan kebijakan deposit & pembatalan.
+
+
+Hotel Rajawali
+--------------
+
+.. image:: rajawali.jpg
+   :alt: Hotel Rajawali Lhokseumawe
+   :align: center
+   :width: 720
+
+**Highlight**
+
+- Hotel klasik dengan harga bersahabat.
+- Pilihan tepat untuk short stay & transit.
+- Akses strategis ke pusat kebutuhan harian.
+
+**Fasilitas Utama**
+
+- Kamar ber-AC/kipas (tergantung tipe), Wi-Fi (umum), kamar mandi (dalam/luar—cek tipe).
+- Resepsionis, parkir, layanan kebersihan.
+- Opsi kamar ekonomis.
+
+**Kenapa Memilih Ini**
+
+- Fokus pada efisiensi anggaran.
+- Kebutuhan menginap ringkas dengan akses kota yang mudah.
+- Traveler solo atau pasangan.
+
+
+Panduan Pemesanan
+-----------------
+
+1. Tentukan prioritas: **lokasi**, **privasi/fasilitas**, atau **anggaran**.
+2. Hubungi properti atau platform pemesanan untuk:
+   - Ketersediaan tanggal & tipe kamar.
+   - Detail fasilitas per tipe kamar.
+   - Kebijakan **check-in/out**, **pembatalan**, dan **deposit**.
+3. Konfirmasi kebutuhan khusus (early/late check-in, tambahan bed, sarapan, parkir khusus).
+4. Simpan bukti reservasi & kontak resepsionis.
+
+
+Rencana Perjalanan Singkat (Opsional)
+-------------------------------------
+
+- **Hari 1:** Check-in, jelajah kuliner lokal (mie, kopi sanger), istirahat.
+- **Hari 2:** Kunjungi landmark & pantai sekitar, kembali untuk makan malam.
+- **Hari 3:** Checkout santai, beli oleh-oleh, perjalanan pulang.
+
+
+FAQ
+---
+
+
+
+**Apakah bisa early/late check-in?**  
+Fleksibel tergantung okupansi. Silakan koordinasi sebelum kedatangan.
+
+**Apakah tersedia parkir?**  
+Umumnya tersedia. Tanyakan kapasitas & kebijakan keamanan setempat.
+
+**Apakah ada kamar keluarga?**  
+Ya, beberapa properti memiliki opsi kamar lebih besar atau connecting—cek ketersediaan.
+
+
+
+
+Catatan
+-------
+
+- Informasi di atas bersifat umum. Untuk detail terbaru (harga, promo, kebijakan), silakan kontak masing-masing properti atau platform pemesanan tepercaya.
+- Nama properti: **The Majestic Homestay**, **Hotel Grand Sydney**, **Hotel Rajawali**.

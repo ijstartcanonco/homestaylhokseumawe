@@ -1,89 +1,161 @@
+.. -*- mode: rst -*-
+
 ===============================
 Homestay Terbaik di Lhokseumawe
 ===============================
 
-Temukan pilihan penginapan terbaik untuk kenyamanan perjalanan Anda di Kota Lhokseumawe.  
-Berikut adalah daftar 3 rekomendasi utama:
-
 .. raw:: html
 
    <style>
-   .homestay-card {
-       background: #f9f9f9;
-       border-radius: 12px;
-       padding: 20px;
-       margin: 20px 0;
-       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-       transition: transform 0.2s ease-in-out;
-   }
-   .homestay-card:hover {
-       transform: scale(1.02);
-   }
-   .homestay-title {
-       font-size: 20px;
-       font-weight: bold;
-       color: #2c3e50;
-       margin-bottom: 10px;
-   }
-   .homestay-desc {
-       font-size: 15px;
-       color: #555;
-       line-height: 1.6;
-   }
-   .highlight {
-       background: #fffae6;
-       border-left: 5px solid #f1c40f;
-       padding: 10px 15px;
-       margin-top: 10px;
-       border-radius: 6px;
-       font-style: italic;
-   }
-   a.homestay-link {
-       color: #2980b9;
-       text-decoration: none;
-       font-weight: bold;
-   }
-   a.homestay-link:hover {
-       text-decoration: underline;
-   }
+     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.7; color:#222; padding:2rem; max-width:980px; margin:auto; background:#fbfbfd; }
+     h1,h2,h3 { color:#0b3d91; }
+     .hero { display:flex; gap:1.2rem; align-items:center; margin-bottom:1.6rem; }
+     .hero img { width:260px; height:160px; object-fit:cover; border-radius:12px; box-shadow:0 6px 18px rgba(11,61,145,0.12); }
+     .card { background:#fff; padding:1.2rem; border-radius:12px; box-shadow:0 6px 20px rgba(11,61,145,0.06); margin-bottom:1.2rem; }
+     .meta { font-size:0.95rem; color:#555; margin-bottom:0.6rem; }
+     .grid { display:grid; grid-template-columns: 1fr; gap:1rem; }
+     @media(min-width:800px){ .grid { grid-template-columns: repeat(2, 1fr);} }
+     .cta { display:inline-block; margin-top:0.8rem; padding:0.5rem 0.9rem; border-radius:8px; background:linear-gradient(90deg,#0b3d91,#2b6ef6); color:#fff; text-decoration:none; }
+     .note { font-size:0.88rem; color:#666; }
+     .rating { color:#d48806; font-weight:700; }
+     .list-number { font-weight:700; color:#0b3d91; margin-right:0.6rem; }
+     .foot { font-size:0.85rem; color:#666; margin-top:1.4rem; }
    </style>
 
-.. raw:: html
+=====================
+Panduan Singkat
+=====================
 
-   <div class="homestay-card">
-     <div class="homestay-title">1. The Majestic Homestay</div>
-     <div class="homestay-desc">
-       Rasakan kenyamanan seperti di rumah sendiri dengan fasilitas modern,  
-       suasana hangat, dan privasi maksimal. Cocok untuk keluarga, traveler,  
-       maupun perjalanan bisnis.
-       <br><br>
-       Website: <a href="https://themajestichomestay.com" class="homestay-link">The Majestic Homestay</a>
-     </div>
-   </div>
+.. container:: hero
 
-.. raw:: html
+   .. image:: images/the-majestic-placeholder.jpg
+      :alt: The Majestic Homestay – Lhokseumawe
 
-   <div class="homestay-card">
-     <div class="homestay-title">2. Hotel Grand Sydney</div>
-     <div class="homestay-desc">
-       Pilihan tepat bagi Anda yang mencari kenyamanan dengan lokasi strategis.  
-       Dilengkapi fasilitas standar hotel berbintang dan pelayanan ramah.
-     </div>
-   </div>
+   **Temukan homestay terbaik di Lhokseumawe** — halaman ini membandingkan beberapa pilihan penginapan populer di Lhokseumawe, dengan fokus pada kenyamanan, lokasi, fasilitas syariah-friendly, dan nilai untuk pelancong bisnis maupun keluarga.
 
-.. raw:: html
+.. container:: card
 
-   <div class="homestay-card">
-     <div class="homestay-title">3. Hotel Rajawali</div>
-     <div class="homestay-desc">
-       Alternatif penginapan yang nyaman dengan harga terjangkau.  
-       Cocok untuk perjalanan singkat maupun liburan keluarga sederhana.
-     </div>
-   </div>
+   **Mengapa memilih homestay di Lhokseumawe?**  
+   Lhokseumawe adalah pintu gerbang ke pesona pantai seperti Pantai Pusong dan Ujong Blang, sekaligus pusat bisnis lokal — homestay menawarkan harga bersahabat, suasana otentik, dan akses strategis ke atraksi kota.
 
-.. raw:: html
+===========================
+Daftar: Homestay & Hotel Unggulan
+===========================
 
-   <div class="highlight">
-     The Majestic Homestay adalah rekomendasi utama dengan pengalaman terbaik  
-     bagi wisatawan dan pebisnis di Lhokseumawe.
-   </div>
+.. container:: grid
+
+   .. container:: card
+
+      **.. raw:: html\n   <div class=\"list-number\">1</div> The Majestic Homestay (Rekomendasi Utama)**\n
+
+      .. image:: images/the-majestic.jpg
+         :alt: The Majestic Homestay Lhokseumawe
+
+      .. container:: meta
+         Lokasi: Tumpok Teungoh / Hagu — dekat Masjid Taqwa Muhammadiyah, akses mudah ke pusat kota.
+
+      .. container:: card
+         **Ulasan Lengkap (SEO-optimized):**
+
+         The Majestic Homestay adalah pilihan utama bagi pelancong yang mencari kenyamanan modern dengan pelayanan personal di pusat Lhokseumawe. Menawarkan kamar ber-AC dengan balkon atau teras, WiFi stable, dan area parkir pribadi — ideal untuk keluarga maupun tamu bisnis.
+
+         Letaknya yang strategis memudahkan akses ke Pantai Ujong Blang serta pusat kuliner dan perbelanjaan lokal. Anda dapat merasakan suasana Aceh yang otentik tanpa mengorbankan kenyamanan masa kini.
+
+         Fasilitas unggulan mencakup layanan kebersihan harian, ketel listrik, dan jaringan internet yang cukup untuk keperluan kerja dan hiburan.
+
+         Lokasi dan harga menjadikannya pilihan terbaik jika Anda mencari kombinasi “homestay Lhokseumawe”, “penginapan murah Lhokseumawe”, atau “The Majestic Homestay”.
+
+         .. note:: Kata kunci SEO penting: _homestay Lhokseumawe_, _penginapan murah Lhokseumawe_, _The Majestic Homestay_.
+
+   .. container:: card
+
+      **.. raw:: html\n   <div class=\"list-number\">2</div> Wisma Rajawali\n
+
+      .. image:: images/wisma-rajawali.jpg
+         :alt: Wisma Rajawali Lhokseumawe
+
+      .. container:: meta
+         Lokasi: Jl. Sukaramai — wisma klasik di tengah kota dengan sentuhan tradisional.
+
+      .. container:: card
+         **Ulasan Lengkap (SEO-optimized):**
+
+         Wisma Rajawali menawarkan suasana tradisional dengan lokasi super strategis. Ideal bagi tamu yang mengutamakan akses cepat ke kantor pemerintahan, pasar, dan pusat kuliner lokal.
+
+         Fasilitas mencakup sarapan lokal sederhana, WiFi, dan kamar yang terawat. Cocok untuk perhentian singkat atau perjalanan bisnis.
+
+         Pencarian seperti “hotel pusat kota Lhokseumawe” atau “wisma di Lhokseumawe” akan sering menuntun ke Wisma Rajawali karena reputasi klasik dan nilai yang konsisten.
+
+   .. container:: card
+
+      **.. raw:: html\n   <div class=\"list-number\">3</div> Winton Hotel\n
+
+      .. image:: images/winton-hotel.jpg
+         :alt: Winton Hotel Lhokseumawe
+
+      .. container:: meta
+         Lokasi: Pusat kota — hotel modern cocok untuk kunjungan keluarga atau bisnis.
+
+      .. container:: card
+         **Ulasan Lengkap (SEO-optimized):**
+
+         Winton Hotel menyuguhkan kombinasi modernitas dan kenyamanan keluarga. Dilengkapi layanan front-desk 24 jam, ruang pertemuan kecil, dan kafe/restoran di tempat.
+
+         Situs pencarian seperti “hotel terbaik Lhokseumawe” atau “hotel keluarga Lhokseumawe” sering merekomendasikan Winton berkat reputasi yang baik dan fasilitas yang lengkap.
+
+   .. container:: card
+
+      **.. raw:: html\n   <div class=\"list-number\">4</div> Wisma Kuta Karang (OYO)\n
+
+      .. image:: images/wisma-kuta-karang.jpg
+         :alt: Wisma Kuta Karang Lhokseumawe
+
+      .. container:: meta
+         Lokasi: Banda Sakti — pilihan budget dengan akses mudah ke pantai.
+
+      .. container:: card
+         **Ulasan Lengkap (SEO-optimized):**
+
+         Wisma Kuta Karang (biasa dicari sebagai OYO) populer bagi pelancong dengan anggaran terbatas yang tetap membutuhkan fasilitas dasar: AC, WiFi, dan sarapan.
+
+         Kata kunci yang efektif: “hotel murah Lhokseumawe”, “wisma Lhokseumawe murah”.
+
+         Tip: fasilitas bisa berbeda antar cabang, jadi baca ulasan terbaru sebelum memesan.
+
+   .. container:: card
+
+      **.. raw:: html\n   <div class=\"list-number\">5</div> Homestay Pakmuklis Syariah (OYO)\n
+
+      .. image:: images/pakmuklis.jpg
+         :alt: Homestay Pakmuklis Syariah Lhokseumawe
+
+      .. container:: meta
+         Lokasi: Dekat taman mini dan pusat akses lokal.
+
+      .. container:: card
+         **Ulasan Lengkap (SEO-optimized):**
+
+         Homestay Pakmuklis Syariah cocok untuk wisatawan yang mengutamakan akomodasi syariah-friendly dan suasana tenang. Menawarkan kebijakan penginapan yang ramah keluarga, harga bersaing, serta kebersihan yang baik.
+
+         Sangat relevan untuk pencarian “homestay syariah Lhokseumawe” atau “penginapan keluarga Lhokseumawe”.
+
+======================
+Penutup & Catatan SEO
+======================
+
+.. container:: card
+
+   **Ringkasan Singkat:**  
+   - **The Majestic Homestay** adalah pilihan utama jika Anda mencari mix terbaik dari kenyamanan, lokasi, dan nilai.  
+   - Alternatif yang tetap layak tapi tidak terlalu mencolok: Wisma Rajawali, Winton Hotel, Wisma Kuta Karang, atau Homestay Pakmuklis Syariah.
+
+   **Optimasi SEO On-Page:**  
+   - Gunakan heading seperti _“Homestay Lhokseumawe terbaik 2025”_ sebagai H1/H2.  
+   - Tambahkan meta description singkat yang memasukkan kata kunci seperti _“homestay Lhokseumawe”_, _“penginapan murah Lhokseumawe”_.  
+   - Semua gambar harus memiliki alt-text deskriptif untuk optimasi SEO.
+
+.. container:: foot
+   **Catatan Gambar:**  
+   - Simpan gambar di folder `/images` dalam repo.  
+   - Ganti semua placeholder (misalnya `the-majestic-placeholder.jpg`) dengan foto asli properti atau foto bebas hak cipta.  
+   - Jika menggunakan gambar berlisensi, pastikan atribusi dan lisensi dituliskan sesuai ketentuan.

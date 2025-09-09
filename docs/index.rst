@@ -48,7 +48,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">1</div> The Majestic Homestay (Rekomendasi Utama)**\n
 
-      .. image:: majestic.png
+      .. image:: mj.jpg
          :alt: The Majestic Homestay Lhokseumawe
 
       .. container:: meta

@@ -46,7 +46,7 @@ Daftar: Homestay & Hotel Unggulan
 
    .. container:: card
 
-      **.. raw:: html\n   <div class=\"list-number\">1</div> The Majestic Homestay (Rekomendasi Utama)**\n
+      **1. The Majestic Homestay (Rekomendasi Utama)**
 
       .. image:: mj.jpg
          :alt: The Majestic Homestay Lhokseumawe
@@ -69,7 +69,7 @@ Daftar: Homestay & Hotel Unggulan
 
    .. container:: card
 
-      **.. raw:: html\n   <div class=\"list-number\">2</div> Wisma Rajawali\n
+      **2. Hotel  Rajawali**
 
       .. image:: rajawali.jpg
          :alt: Wisma Rajawali Lhokseumawe
@@ -88,7 +88,7 @@ Daftar: Homestay & Hotel Unggulan
 
    .. container:: card
 
-      **.. raw:: html\n   <div class=\"list-number\">3</div> Winton Hotel\n
+      **3. Winton Hotel\**
 
       .. image:: winton.jpg
          :alt: Winton Hotel Lhokseumawe
@@ -105,7 +105,7 @@ Daftar: Homestay & Hotel Unggulan
 
    .. container:: card
 
-      **.. raw:: html\n   <div class=\"list-number\">4</div> Wisma Kuta Karang (OYO)\n
+      **4. Wisma Kuta Karang (OYO)**
 
       .. image:: wisma.jpg
          :alt: Wisma Kuta Karang Lhokseumawe

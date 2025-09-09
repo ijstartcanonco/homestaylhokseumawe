@@ -107,7 +107,7 @@ Daftar: Homestay & Hotel Unggulan
 
       **.. raw:: html\n   <div class=\"list-number\">4</div> Wisma Kuta Karang (OYO)\n
 
-      .. image:: karang.jpg
+      .. image:: wisma.jpg
          :alt: Wisma Kuta Karang Lhokseumawe
 
       .. container:: meta
